@@ -40,12 +40,12 @@ Neste projeto, utilizei o **matplotlib** para criar gráficos que ilustram os re
 1. **Como foram as vendas nesse período?**
     - A análise mostrou as tendências de vendas ao longo do tempo, identificando períodos de alta e baixa.
     ![Gráfico de Vendas](images/vendasxano.png)
-        ![Gráfico de Vendas](images/vendas x mes.png)
+        ![Gráfico de Vendas](images/vendasxmes.png)
 
 
 2. **Qual foi a categoria mais vendida?**
     - Determinei qual categoria de produtos teve o maior volume de vendas, destacando-se em relação às outras.
-        ![Gráfico de Vendas](images/vendasx cate.png)
+        ![Gráfico de Vendas](images/vendasxcate.png)
 
 
 3. **Qual foi o item mais vendido?**
